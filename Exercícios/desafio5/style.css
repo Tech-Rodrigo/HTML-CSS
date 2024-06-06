@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+    
+}
+
+
+a {
+    color: green;
+}
+
+a:active {
+    color: blue;
+}
+
+h1.principal {
+    color: rgb(82, 206, 82);
+}
+.foto {
+    text-align: center;
+    margin: auto;
+   
+    
+}
+
+.principal {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.foto img {
+    border: 5px solid green;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    
+}
+
+    
+/*
+a::after {
+content: ***** ;
+}
+
+
+a::before: {
+    content: ***** ;
+}
+
+*/
+
+
+.icon img {
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 50%;
+}
